@@ -1,1 +1,1 @@
-# T-rex-runner-game
+# T-Rex-Runner-Color
